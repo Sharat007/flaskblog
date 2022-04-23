@@ -1,1 +1,3 @@
 venv/*
+flaskblog_app/__pycache__/*
+vscode/*
